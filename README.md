@@ -4,6 +4,3 @@
 - 🌱 I’m currently learning Cairo in order to make it my core competence.
 - 💼 Working on the Mystis project & contributing on OnlyDust
 - 🏆 TOP 2 Cast Challenge Hackathon & in the TOP 10 MatchboxDAO Hackathon
-
-- 📫 How to reach me notbearteddy@mail.com
-
