@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TeddyNotBear, co-founder of Block3Labs and core developer on Bountive
-- 💼 Previously working on the Mystis project & contributing on OnlyDust
+- 💼 Early OnlyDust contributor
 - 🏆 TOP 2 Cast Challenge Hackathon & in the TOP 10 MatchboxDAO Hackathon
